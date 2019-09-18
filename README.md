@@ -1,7 +1,9 @@
 # **Lab1.2_SortPersonsbyNameandAge**
 ## **Problem1**
-> _**NOTE:**_ _WE created 2 classes, include **Person.cs** and **Program.cs**, both of classes contains namescape **PersonInfo** as presented in the following figure._ 
+> _**NOTE:**_ _WE created 2 classes, include **Person.cs** and **Program.cs**, both of classes contains namescape **PersonInfo** as presented in the following figure._   
+
 > ![Imgur](https://i.imgur.com/M0GV55g.png)  
+
 > ![Imgur](https://i.imgur.com/oJUiSqd.png)  
 In the class _**Person**_, which should have private fields for:
 * firstName: string
