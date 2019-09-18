@@ -4,7 +4,7 @@
 
 > ![Imgur](https://i.imgur.com/oJUiSqd.png) 
 
-> ![Imgur](https://i.imgur.com/oJUiSqd.png)  
+> ![Imgur](https://i.imgur.com/EblALVe.png)  
 In the class _**Person**_, which should have private fields for:
 * firstName: string
 * lastName: string
