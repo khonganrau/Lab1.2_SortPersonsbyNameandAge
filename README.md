@@ -2,7 +2,7 @@
 ## **Problem1**
 > _**NOTE:**_ _WE created 2 classes, include **Person.cs** and **Program.cs**, both of classes contains namescape **PersonInfo** as presented in the following figure._   
 
-> ![Imgur](https://i.imgur.com/EblALVe.png)  
+> ![Imgur](https://i.imgur.com/oJUiSqd.png) 
 
 > ![Imgur](https://i.imgur.com/oJUiSqd.png)  
 In the class _**Person**_, which should have private fields for:
